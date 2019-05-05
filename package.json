@@ -1,7 +1,7 @@
 {
-  "name": "vue-component",
+  "name": "vue-skeleton",
   "version": "0.1.0",
-  "description": "component-test",
+  "description": "A Vue skeleton with a default config for avoid configure a new project each time.",
   "main": "src/index.js",
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
@@ -9,7 +9,7 @@
     "build": "webpack --config build/webpack.config.dev.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "r",
+  "author": "ricardomoratomateos@gmail.com",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
